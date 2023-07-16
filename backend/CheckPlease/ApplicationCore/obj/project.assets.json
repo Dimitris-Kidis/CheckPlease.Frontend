@@ -7501,11 +7501,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dmitrii.romanenco\\Downloads\\CheckPlease\\backend\\CheckPlease\\ApplicationCore\\ApplicationCore.csproj",
+      "projectUniqueName": "C:\\Users\\dmitrii.romanenco\\Downloads\\Check Please\\Check Please - DotNet - Angular\\backend\\CheckPlease\\ApplicationCore\\ApplicationCore.csproj",
       "projectName": "ApplicationCore",
-      "projectPath": "C:\\Users\\dmitrii.romanenco\\Downloads\\CheckPlease\\backend\\CheckPlease\\ApplicationCore\\ApplicationCore.csproj",
+      "projectPath": "C:\\Users\\dmitrii.romanenco\\Downloads\\Check Please\\Check Please - DotNet - Angular\\backend\\CheckPlease\\ApplicationCore\\ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\dmitrii.romanenco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dmitrii.romanenco\\Downloads\\CheckPlease\\backend\\CheckPlease\\ApplicationCore\\obj\\",
+      "outputPath": "C:\\Users\\dmitrii.romanenco\\Downloads\\Check Please\\Check Please - DotNet - Angular\\backend\\CheckPlease\\ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dmitrii.romanenco\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmitrii.romanenco\\Downloads\\CheckPlease\\backend\\CheckPlease\\Command\\Command.csproj": {}
+    "C:\\Users\\dmitrii.romanenco\\Downloads\\Check Please\\Check Please - DotNet - Angular\\backend\\CheckPlease\\Command\\Command.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmitrii.romanenco\\Downloads\\CheckPlease\\backend\\CheckPlease\\ApplicationCore\\ApplicationCore.csproj": {
+    "C:\\Users\\dmitrii.romanenco\\Downloads\\Check Please\\Check Please - DotNet - Angular\\backend\\CheckPlease\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmitrii.romanenco\\Downloads\\CheckPlease\\backend\\CheckPlease\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\dmitrii.romanenco\\Downloads\\Check Please\\Check Please - DotNet - Angular\\backend\\CheckPlease\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\dmitrii.romanenco\\Downloads\\CheckPlease\\backend\\CheckPlease\\ApplicationCore\\ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\dmitrii.romanenco\\Downloads\\Check Please\\Check Please - DotNet - Angular\\backend\\CheckPlease\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\dmitrii.romanenco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmitrii.romanenco\\Downloads\\CheckPlease\\backend\\CheckPlease\\ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\dmitrii.romanenco\\Downloads\\Check Please\\Check Please - DotNet - Angular\\backend\\CheckPlease\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmitrii.romanenco\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,14 +121,14 @@
         }
       }
     },
-    "C:\\Users\\dmitrii.romanenco\\Downloads\\CheckPlease\\backend\\CheckPlease\\Command\\Command.csproj": {
+    "C:\\Users\\dmitrii.romanenco\\Downloads\\Check Please\\Check Please - DotNet - Angular\\backend\\CheckPlease\\Command\\Command.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmitrii.romanenco\\Downloads\\CheckPlease\\backend\\CheckPlease\\Command\\Command.csproj",
+        "projectUniqueName": "C:\\Users\\dmitrii.romanenco\\Downloads\\Check Please\\Check Please - DotNet - Angular\\backend\\CheckPlease\\Command\\Command.csproj",
         "projectName": "Command",
-        "projectPath": "C:\\Users\\dmitrii.romanenco\\Downloads\\CheckPlease\\backend\\CheckPlease\\Command\\Command.csproj",
+        "projectPath": "C:\\Users\\dmitrii.romanenco\\Downloads\\Check Please\\Check Please - DotNet - Angular\\backend\\CheckPlease\\Command\\Command.csproj",
         "packagesPath": "C:\\Users\\dmitrii.romanenco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmitrii.romanenco\\Downloads\\CheckPlease\\backend\\CheckPlease\\Command\\obj\\",
+        "outputPath": "C:\\Users\\dmitrii.romanenco\\Downloads\\Check Please\\Check Please - DotNet - Angular\\backend\\CheckPlease\\Command\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmitrii.romanenco\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -145,8 +145,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\dmitrii.romanenco\\Downloads\\CheckPlease\\backend\\CheckPlease\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\Users\\dmitrii.romanenco\\Downloads\\CheckPlease\\backend\\CheckPlease\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\Users\\dmitrii.romanenco\\Downloads\\Check Please\\Check Please - DotNet - Angular\\backend\\CheckPlease\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\dmitrii.romanenco\\Downloads\\Check Please\\Check Please - DotNet - Angular\\backend\\CheckPlease\\ApplicationCore\\ApplicationCore.csproj"
               }
             }
           }

@@ -18,7 +18,7 @@ namespace Command.Car.CreateCar
         }
         public Task<int> Handle(CreateCarCommand request, CancellationToken cancellationToken)
         {
-            var newCar = new ApplicationCore.Domain.Entities.Car
+            var newCarNew = new ApplicationCore.Domain.Entities.Car
             {
                 CarSign = request.CarSign,
                 VinCode = request.VinCode,
@@ -29,10 +29,10 @@ namespace Command.Car.CreateCar
                 Model = request.Model
             };
 
-            _carRepository.Add(newCar);
+            _carRepository.Add(newCarNew);
             _carRepository.Save();
 
-            var resultId = newCar.Id;
+            var resultId = newCarNew.Id;
             return Task.FromResult(resultId);
         }
     }
