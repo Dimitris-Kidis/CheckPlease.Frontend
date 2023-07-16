@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CheckPlease</name>
+    </assembly>
+    <members>
+        <member name="M:CheckPlease.Controllers.Cars.CarsController.CreateNewCar(Command.Car.CreateCar.CreateCarCommand)">
+            <summary>
+            Create new car
+            </summary>
+        </member>
+        <member name="M:CheckPlease.Controllers.Cars.CarsController.UpdateCarMileage(Command.Car.UpdateCar.UpdateCarMileageCommand)">
+            <summary>
+            Update car mileage by car id
+            </summary>
+        </member>
+        <member name="M:CheckPlease.Controllers.Cars.CarsController.GetAllCars">
+            <summary>
+            Get all cars
+            </summary>
+        </member>
+        <member name="M:CheckPlease.Controllers.Cars.CarsController.FindCarsByCarSign(System.String)">
+            <summary>
+            Find cars by car sign
+            </summary>
+        </member>
+        <member name="M:CheckPlease.Controllers.Clients.ClientsController.CreateNewClient(Command.Clients.CreateClient.CreateClientCommand)">
+            <summary>
+            Create new client
+            </summary>
+        </member>
+        <member name="M:CheckPlease.Controllers.Clients.ClientsController.GetAllClients">
+            <summary>
+            Get all clients
+            </summary>
+        </member>
+        <member name="M:CheckPlease.Controllers.Clients.ClientsController.GetClientHistoryByCarSign(System.String)">
+            <summary>
+            Get client history by car sign
+            </summary>
+        </member>
+        <member name="M:CheckPlease.Controllers.Clients.ClientsController.FindClientsByFullnameOrPhoneNumber(System.String,System.String)">
+            <summary>
+            Find clients by full name or phone number
+            </summary>
+        </member>
+        <member name="M:CheckPlease.Controllers.Prints.PrintsController.GetCheckPrint(System.Int32)">
+            <summary>
+            Get check print
+            </summary>
+        </member>
+        <member name="M:CheckPlease.Controllers.Prints.PrintsController.GetExcelFile">
+            <summary>
+            Get excel file
+            </summary>
+        </member>
+        <member name="M:CheckPlease.Controllers.Repairs.RepairsController.CreateNewRepair(Command.Repair.CreateRepair.CreateRepairCommand)">
+            <summary>
+            Create new repair
+            </summary>
+        </member>
+    </members>
+</doc>
