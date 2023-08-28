@@ -30,7 +30,7 @@ using CheckPlease.Infrastructure.Configurations;
 using Microsoft.AspNetCore.Mvc.Filters;
 using CheckPlease.Infrastructure.Configurations;
 
-
+// check the commit
 
 var builder = WebApplication.CreateBuilder(args);
 

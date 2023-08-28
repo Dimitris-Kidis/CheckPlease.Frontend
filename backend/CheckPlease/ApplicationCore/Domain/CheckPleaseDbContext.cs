@@ -30,13 +30,7 @@ namespace ApplicationCore.Domain
 
         public CheckPleaseDbContext(DbContextOptions<CheckPleaseDbContext> options) : base(options)
         {
-
-        }
-
-
-        protected override void OnConfiguring(DbContextOptionsBuilder builder)
-        {
-            builder.UseSqlServer("Data Source=.;Database=CheckPlease;Integrated Security=True");
+            
         }
 
         protected override void OnModelCreating(ModelBuilder builder)
